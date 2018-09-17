@@ -7,3 +7,7 @@ Currently on my ToDo List:
 - home web server
 - FreeBSD jail server
 - home email server with antispam measures
+- home DNS server
+- home media server
+- home domain server
+- update website
