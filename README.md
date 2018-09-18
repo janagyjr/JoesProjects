@@ -4,8 +4,8 @@ A place to publicly document projects I'm working on so others may benefit from 
 Currently on my ToDo List:
 - FreeBSD PXE server
 - pfSense firewall machine
-- home web server
---integrate fossil into a private, inward-facing Intranet site for a private wiki for the family
+- home web server  
+  - integrate fossil into a private, inward-facing Intranet site for a private wiki for the family and a public facing repo for more public projects
 - FreeBSD jail server
 - home email server with antispam measures
 - home DNS server
